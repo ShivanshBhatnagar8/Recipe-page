@@ -120,26 +120,26 @@ header {
 /********************************/
 /* HERO SECTION*/
 .hero-section {
-  width: 100%;
+  
   background-color: var(--color-secondary);
 }
 .hero-content {
   display: flex;
-  align-items: center;
+
   justify-content: space-between;
   padding: 2.2rem 2rem;
-  width: 100%;
+
   gap: 2rem;
 }
 .hero-img {
   width: 50%;
   border-radius: 1rem;
-  margin-right: -10rem;
+ 
 }
 .hero-text {
   align-self: flex-start;
   color: #fff;
-  font-size: 3.2rem;
+  font-size: 2.6rem;
   width: 100%;
   font-weight: 400;
   padding: 2rem 1rem;
@@ -247,7 +247,7 @@ header {
 .popup-content {
   background-color: #fff;
   width: 60%;
-  height: 55rem;
+  height: 97%;
   position: absolute;
   border-radius: 0.3rem;
   top: 50%;
@@ -284,7 +284,7 @@ header {
 .process-step {
   font-size: 1.6rem;
   color: var(--font-display-secondary);
-  font-weight: 300;
+  font-weight: 200;
 }
 .recipe-process {
   font-size: 1.8rem;
@@ -293,7 +293,7 @@ header {
 }
 .btn-close:link,
 .btn-close:visited {
-  font-size: 2rem;
+  font-size: 2.6rem;
   text-decoration: none;
   color: #000;
 }
@@ -302,7 +302,7 @@ header {
 }
 /*For fixing the popup of 3rd recipe*/
 .popup-3 {
-  width: 50%;
+  width: 80%;
   height: 45rem;
 }
 /**************************************/
