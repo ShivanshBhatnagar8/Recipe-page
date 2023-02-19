@@ -244,7 +244,7 @@ header {
 .popup-content {
   background-color: #fff;
   width: 60%;
-  height: 97%;
+  height: 90%;
   position: absolute;
   border-radius: 0.3rem;
   top: 50%;
@@ -300,6 +300,6 @@ header {
 /*For fixing the popup of 3rd recipe*/
 .popup-3 {
   width: 50%;
-  height: 80%;
+  height: 70%;
 }
 /**************************************/
