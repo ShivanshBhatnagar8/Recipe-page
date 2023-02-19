@@ -12,4 +12,4 @@ HTML, CSS...
 
 ## Important Note
 
-The page is only responsive on desktop version.
+The page is now responsive .
