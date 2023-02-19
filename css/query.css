@@ -31,11 +31,11 @@
   }
   .popup-content {
     width: 90%;
-    height: 70%;
+    height: calc(auto + 1rem);
   }
   .popup-3 {
     width: 90%;
-    height: 60%;
+    height:  calc(auto + 1rem);
   }
 }
 @media (max-width: 30em) {
