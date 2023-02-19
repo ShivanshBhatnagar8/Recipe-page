@@ -244,7 +244,7 @@ header {
 .popup-content {
   background-color: #fff;
   width: 60%;
-  height: 90%;
+ 
   position: absolute;
   border-radius: 0.3rem;
   top: 50%;
@@ -287,6 +287,7 @@ header {
   font-size: 1.8rem;
   color: var(--font-display-secondary);
   font-weight: 300;
+  margin-bottom:2rem;
 }
 .btn-close:link,
 .btn-close:visited {
@@ -300,6 +301,6 @@ header {
 /*For fixing the popup of 3rd recipe*/
 .popup-3 {
   width: 50%;
-  height: 70%;
+ 
 }
 /**************************************/
